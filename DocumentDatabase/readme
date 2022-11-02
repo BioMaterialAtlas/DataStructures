@@ -1,0 +1,3 @@
+<h1> Document database </h1>
+
+New studies created in one of the Jupyter notebooks are automatically placed in this folder. When one runs the python script <i>loadJSONToBMA.py</i>, the files in this folder are added to the BioMaterial Atlas and placed in the DocumentDatabase_Archive folder.
